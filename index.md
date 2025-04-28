@@ -4,3 +4,4 @@
 #### This is my heading h4
 ##### This is my heading h5
 ###### This is my heading h6
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
