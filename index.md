@@ -9,3 +9,5 @@
 ``` 
 var myvar="hello 3m visitor"; 
 ```
+- [ ] task list
+- [x] Introduction session
